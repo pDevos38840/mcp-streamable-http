@@ -1,0 +1,10 @@
+{
+  "name": "mcp-streamable-http",
+  "version": "0.1.0",
+  "description": "Example implementation of MCP Streamable HTTP client/server in Python and TypeScript.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
